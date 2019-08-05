@@ -1,0 +1,6 @@
+startbrowser:
+  server: http://localhost:4444/wd/hub
+  implicitly_wait: 10
+  project_adress: http://www.xueqiu.com
+
+browser: chrome

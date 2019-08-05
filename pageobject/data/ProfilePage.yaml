@@ -1,0 +1,4 @@
+gotoLogin:
+  - by: xpath
+    locator: //*[@text='µã»÷µÇÂ¼']
+    action: click
